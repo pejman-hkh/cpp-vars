@@ -41,16 +41,16 @@ var aa = 2;
 var bb = 3;
 echo( aa && bb );
 
-	var list = { "test", 1, 2.2 };
-	print_r( list );
+var list = { "test", 1, 2.2 };
+print_r( list );
 
-	var ppp = var({
-		{"test1", "test1"},
-		{"test2", "test2"},
+var ppp = var({
+	{"test1", "test1"},
+	{"test2", "test2"},
 
-	}).to_kv();
+}).to_kv();
 
-	print_r( ppp );
+print_r( ppp );
   
 ```
 
