@@ -58,3 +58,11 @@ print_r( ppp );
 ```
 g++ -std=c++11 test.cpp -o test
 ```
+
+# My package
+also see another package that writed with this class for easy usage & developes
+
+1. [4php ](https://github.com/pejman-hkh/4php) ( Simple interpreter like php syntax in c++ )
+2. [Sqlite c++ wrapper ](https://github.com/pejman-hkh/sqlite-cpp-wrapper)
+3. [Mysql c++ wrapper](https://github.com/pejman-hkh/mysql-cpp-wrapper)
+
