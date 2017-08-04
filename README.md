@@ -59,7 +59,7 @@ print_r( ppp );
 g++ -std=c++11 test.cpp -o test
 ```
 
-# My package
+# My packages
 also see another package that writed with this class for easy usage & developes
 
 1. [4php ](https://github.com/pejman-hkh/4php) ( Simple interpreter like php syntax in c++ )
