@@ -65,4 +65,5 @@ also see another package that writed with this class for easy usage & developes
 1. [4php ](https://github.com/pejman-hkh/4php) ( Simple interpreter like php syntax in c++ )
 2. [Sqlite c++ wrapper ](https://github.com/pejman-hkh/sqlite-cpp-wrapper)
 3. [Mysql c++ wrapper](https://github.com/pejman-hkh/mysql-cpp-wrapper)
-
+4. [Simple Json parser](https://github.com/pejman-hkh/json-parser)
+5. [Simple query string parser](https://github.com/pejman-hkh/simple-query-string-parser)
