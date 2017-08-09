@@ -60,7 +60,7 @@ g++ -std=c++11 test.cpp -o test
 ```
 
 # My packages
-also see another package that writed with this class for easy usage & fast developes
+also see another package that writed with this class for easy usage & fast develope
 
 1. [4php ](https://github.com/pejman-hkh/4php) ( Simple interpreter like php syntax in c++ )
 2. [Sqlite c++ wrapper ](https://github.com/pejman-hkh/sqlite-cpp-wrapper)
